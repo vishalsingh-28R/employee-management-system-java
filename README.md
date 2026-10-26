@@ -10,6 +10,14 @@ A Java Swing desktop application for managing employee details, calculating atte
 - View saved employee details using employee ID.
 - Clear form fields and exit the application.
 
+  ## Screenshots
+
+### Salary Dashboard
+![Employee Management System Salary Dashboard](EmployeeManagement_01_SalaryDashboard.png)
+
+### Saved Record
+![Employee Management System Saved Record](EmployeeManagement_02_SavedRecord.png)
+
 ## Technologies Used
 
 - Java
